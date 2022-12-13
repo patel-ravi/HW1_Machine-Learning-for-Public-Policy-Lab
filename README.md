@@ -1,6 +1,6 @@
 # MLPP_HW1_rjpatel
 
-Analyzing how parameters like race, citizenship, income and education are associated with the distribution of housing units across household types:
+Analyzing how parameters like race, citizenship, income and education are associated with the distribution of housing units across household types using census data:
 
 I collected data for the parameters race, nativity and citizenship status, median income in the past 12 months, housing units, household type and bachelor's degrees for Alabama to analyze how parameters like race, citizenship, income and education are associated with the proportion of housing units across household types. I used the API of api.census.gov to fetch the data and created csv file of the data using json and pandas.
 
